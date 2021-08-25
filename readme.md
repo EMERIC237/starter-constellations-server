@@ -1,6 +1,6 @@
 # Starter Code: Constellations Server
 
-This server is intended to be run for some checkpoints in the Thinkful curriculum. If you have trouble getting the server to run, reach out to your mentor.
+#This server is intended to be run for some checkpoints in the Thinkful curriculum. If you have trouble getting the server to run, reach out to your mentor#.
 
 ## Installation Instructions
 
